@@ -1,1 +1,3 @@
-inicio de la historia
+Inicio de la historia
+
+Parte 2 de la historia. Hecho desde la rama texto2.
