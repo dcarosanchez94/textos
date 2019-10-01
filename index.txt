@@ -2,3 +2,6 @@ Inicio de la historia
 
 Parte 2 de la historia. Hecho desde la rama texto2.
 
+inicio de la historia
+
+Texto3
